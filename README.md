@@ -1,3 +1,7 @@
+## Reproducible Research - Assignment: Course Project 1
+
+This is Boris Polania submission
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
