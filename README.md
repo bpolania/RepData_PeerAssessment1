@@ -1,6 +1,6 @@
 ## Reproducible Research - Assignment: Course Project 1
 
-This is Boris Polania submission
+This is Boris Polania's submission
 
 ## Introduction
 
